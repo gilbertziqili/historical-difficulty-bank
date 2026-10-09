@@ -1,0 +1,3 @@
+interface:
+  display_name: "历史难点累积"
+  short_description: "逐题累积模型错点、取数口径与混淆上下文，供后续出题复用并持续更新"
